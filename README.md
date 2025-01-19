@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @clumsypasta
-- 👀 I’m interested in game devlopment,programming,gaming
+- 👀 I’m interested in game development,Machine learning, Generative AI, Deep Learning, Data Science,programming,gaming
 - 🌱 I’m currently pursuing BACHELORS IN ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING
 - 💞️ I’m looking to collaborate on various game devlopment of IT companies
 - 📫 How to reach me - tanixie76@gmail.com
